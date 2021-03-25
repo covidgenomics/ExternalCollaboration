@@ -11,3 +11,4 @@ The kit consists of:
 1) Exporter python script, packing and uploading the data to the given bucket.
 1) Configuration file(s).
 
+### [Click here to review Site Instructions](https://github.com/covidgenomics/ExternalCollaboration/wiki/Instructions-for-Sites)
