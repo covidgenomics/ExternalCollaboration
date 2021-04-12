@@ -2,7 +2,7 @@
 Welcome to the NYGC COVID-19 Data Commons External Collaboration Repository! The purpose of this repository is to enable sites with key information on how to engage and submit extracts from local OMOP CDMs to the central OMOP CDM.
 
 ### What's in Your Toolbox ###
-This Site Exporter kit is created to help the sites to extract COVID-19 patients data, stored in a local OMOP CDM dataset. The kit builds a cohort of such patients, extracts the patients data and upload it to the aggregating storage.
+This Site Exporter kit is created to help the sites to extract COVID-19 patients data, stored in a local OMOP CDM dataset. The kit builds a cohort of such patients, extracts the patients data and upload it to the GPC bucket.
 
 The kit consists of:
 
